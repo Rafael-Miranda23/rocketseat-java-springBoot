@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://www.notion.so/Curso-de-Java-d4a7859f8ad74147bfeb44ed787031d8" rel="nofollow noopener noreferrer" target="_blank"><img src="img/coffee.png" alt="Logo do Java" style="border-radius:16px"></a>
-</p>
-
-<h1 align="center">To-Do List <a href="https://www.notion.so/Curso-de-Java-d4a7859f8ad74147bfeb44ed787031d8" rel="nofollow noopener noreferrer" alt="Material complementar" target="_blank"><img style="border-radius:16px !important" src="img/favicon.ico" alt="Imagem favicon da rocketseat"></a> </h1>
-
 ## Curso online de Java da Rocketseat
 
 ### Tópicos
