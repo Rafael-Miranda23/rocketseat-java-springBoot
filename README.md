@@ -22,21 +22,7 @@
 
 :small_blue_diamond:[Path de requisição](#path-de-requisição)
 
-:small_blue_diamond:[Estrutura do projeto](#estrutura-do-projeto)
-
 <br><br>
-
-| Aulas           | Descrição                                                                         |
-| --------------- | --------------------------------------------------------------------------------- |
-| &#10004; Aula01 | Construção back-end de uma aplicação de To-Do List.                               |
-| &#10004; Aula02 | Integração com Banco de Dados utilizando o H2 Database.                           |
-| &#10004; Aula03 | Implementando segurança nos dados do usuário.                                     |
-| &#10004; Aula04 | Atualizando tarefas e validação de rotas, utilizando Apidog como testador de API. |
-| &#10004; Aula05 | Deploy do Back-End.                                                               |
-
-## Material Complementar
-
-[Curso online Java](https://www.notion.so/Curso-de-Java-d4a7859f8ad74147bfeb44ed787031d8)
 
 ## Dependências:
 
@@ -142,13 +128,4 @@ https://rocketseat-todolist-java-1fmi.onrender.com/tasks
 https://rocketseat-todolist-java-1fmi.onrender.com/id
 ```
 <br>
-
-## Estrutura do projeto
-
-<div><img src="img/README.png" width="90%"></div><br>
-<div><img src="img/manage-environments.png" width="90%"></div><br>
-<div><img src="img/post-tasks.png"width="90%"></div><br>
-<div><img src="img/get-tasks.png" width="90%"></div><br>
-<div><img src="img/put-tasks.png" width="90%"></div><br>
-<div><img src="img/render.png" width="90%"></div>
 
